@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.10",
+    "yarnpkg": "^0.15.1"
+  }
+}
